@@ -1,5 +1,5 @@
 {
-  "name": "love10B",
+  "name": "love10b",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -12,6 +12,21 @@
     "express": "~4.13.1",
     "jade": "~1.11.0",
     "morgan": "~1.6.1",
+    "passport": "^0.3.0",
+    "passport-local": "^1.0.0",
     "serve-favicon": "~2.3.0"
-  }
+  },
+  "description": "适合有自己的vps的二人世界系统",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jecvay/love10B.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jecvay/love10B/issues"
+  },
+  "homepage": "https://github.com/Jecvay/love10B#readme"
 }
